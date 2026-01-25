@@ -1,6 +1,8 @@
 # 🎀 About Me:
 I’m an engineering student who likes understanding how systems behave before building on top of them. My learning is grounded in computer science while I explore areas like machine learning, cybersecurity, robotics and haptic technology.
 
+I’m early in my journey and learn by questioning what exists, identifying gaps, and experimenting with simple product ideas. I care about usability and solving real-world problems without overcomplicating things.
+
 
 ## 🎀 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sukriti-thakur-047991382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukritithakur1014@gmail.com) 
@@ -15,7 +17,7 @@ I’m an engineering student who likes understanding how systems behave before b
 ---
 [![](https://visitcount.itsvg.in/api?id=SukritiTkr&icon=7&color=5)](https://visitcount.itsvg.in)
 
-  ## 🎀 Donate: [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=[pink)](https://paypal.me/paypal.me/coquettecds) 
+# 🎀 Donate: [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=[pink)](https://paypal.me/paypal.me/coquettecds) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
