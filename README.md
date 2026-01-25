@@ -1,7 +1,7 @@
 # 🎀 About Me:
 I’m an engineering student who likes understanding how systems behave before building on top of them. My learning is grounded in computer science while I explore areas like machine learning, cybersecurity, robotics and haptic technology.
 
-I’m early in my journey and learn by questioning what exists, identifying gaps, and experimenting with simple product ideas. I care about usability and solving real-world problems without overcomplicating things.
+I’m early in my journey and learn by questioning what exists, identifying gaps and experimenting with simple product ideas. I care about usability and solving real-world problems without overcomplicating things.
 
 
 ## 🎀 Socials:
