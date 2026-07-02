@@ -15,7 +15,3 @@ I’m early in my journey and learn by questioning what exists, identifying gaps
 ---
 [![](https://visitcount.itsvg.in/api?id=SukritiTkr&icon=7&color=5)](https://visitcount.itsvg.in)
 
- 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
