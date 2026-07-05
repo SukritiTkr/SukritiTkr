@@ -12,6 +12,3 @@ I’m early in my journey and learn by questioning what exists, identifying gaps
 # 💌 Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=SukritiTkr&theme=rose&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SukritiTkr&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=SukritiTkr&icon=7&color=5)](https://visitcount.itsvg.in)
-
